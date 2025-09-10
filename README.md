@@ -34,4 +34,4 @@ I specialize in **React, Next.js, TypeScript, and Tailwind CSS**, creating pixel
 
 ---
 
-✨ *“Code is like art — I aim to make it functional, elegant, and impactful.”* ✨
+✨ “Code is like art — I aim to make it functional, elegant, and impactful.” ✨
