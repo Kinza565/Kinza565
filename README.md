@@ -55,17 +55,6 @@
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kinza565&theme=react-dark&hide_border=true)
 
----
-
-## 🐍 Snake Contributions
-<p align="center">
-  <img src="https://github.com/Kinza565/Kinza565/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🎨 3D Contributions
-![3D Contributions](https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/main/profile-green-animate.svg)
 
 ---
 
