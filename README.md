@@ -55,7 +55,6 @@
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kinza565&theme=react-dark&hide_border=true)
 
-
 ---
 
 ## 💬 Dev Quote
