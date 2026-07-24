@@ -1,55 +1,74 @@
-<h1 align="center">
-  Hi 👋, I'm Kinza Khan
-</h1>
+<h1 align="center">Hi 👋, I'm Kinza Khan</h1>
 
 <h3 align="center">
-Frontend Developer • React • Next.js • TypeScript • Tailwind CSS
+Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS
 </h3>
 
 <p align="center">
-Passionate about building fast, responsive, and user-friendly web applications.
+Building fast, responsive and modern web applications.
 </p>
 
 <p align="center">
-
 <a href="https://kinza-khan.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/kinza-khan-8b64462b7">
-<img src="https://img.shields.io/badge/LinkedIn-Kinza_Khan-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:kinzasardar545@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
-
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 💻 Frontend Developer passionate about modern web development.
-- 🚀 Building applications with **React.js, Next.js, TypeScript & Tailwind CSS**.
-- 🌱 Currently learning **AI-powered applications** and advanced web technologies.
-- 🎯 Looking for **Frontend Developer Internship** and **Remote Opportunities**.
-- ⚡ I enjoy turning ideas into beautiful and responsive websites.
+💻 Frontend Developer passionate about creating modern and responsive web applications.
+
+🚀 Skilled in:
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+🌱 Currently Learning
+
+- AI-Powered Web Applications
+- Full Stack Development
+
+🎯 Open to
+
+- Frontend Developer Roles
+- Remote Opportunities
+- Internship Opportunities
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
+</p>
+
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
 </p>
 
 ### Tools
@@ -62,39 +81,39 @@ Passionate about building fast, responsive, and user-friendly web applications.
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Personal portfolio showcasing my projects, skills and experience.
+Personal portfolio built with Next.js and Tailwind CSS.
 
 🔗 https://kinza-khan.vercel.app/
 
 ---
 
-### 🛒 E-Commerce Website
+## 🛒 E-Commerce Website
 
-Responsive shopping website built using Next.js, TypeScript and Tailwind CSS.
-
----
-
-### 🚗 Car Rental Website
-
-Modern responsive car rental platform with clean UI.
+Modern responsive online shopping website.
 
 ---
 
-### 🖨 Muavia Print
+## 🚗 Car Rental Website
 
-Business website developed with Next.js and Tailwind CSS.
+Responsive car rental application with clean UI.
 
 ---
 
-# 📊 GitHub Analytics
+## 🖨️ Muavia Print
+
+Business website built using Next.js.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinza565&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinza565&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,36 +139,66 @@ Business website developed with Next.js and Tailwind CSS.
 
 ---
 
-# 🏆 GitHub Achievements
+# 💼 Current Focus
 
-<p align="center">
+✅ Building modern React & Next.js applications
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kinza565&theme=tokyonight&no-frame=true&row=1"/>
+✅ Learning AI-powered web development
 
-</p>
+✅ Improving Full Stack Development skills
+
+✅ Contributing to Open Source
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 📧 **Email**
 
 **kinzasardar545@gmail.com**
 
+🌐 **Portfolio**
+
+https://kinza-khan.vercel.app/
+
 💼 **LinkedIn**
 
 https://www.linkedin.com/in/kinza-khan-8b64462b7
 
-🌍 **Portfolio**
+🐙 **GitHub**
 
-https://kinza-khan.vercel.app/
+https://github.com/Kinza565
 
 ---
 
-<div align="center">
+# 📌 Pinned Projects
 
-### ⭐ Thanks for visiting my profile!
+⭐ Portfolio Website
 
-If you like my work, consider giving a ⭐ to my repositories.
+⭐ E-Commerce Website
 
-</div>
+⭐ Car Rental Website
+
+⭐ Muavia Print
+
+⭐ CRM Project
+
+⭐ Next.js Dashboard
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kinza565&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ star my repositories.
+</p>
