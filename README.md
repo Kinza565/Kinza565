@@ -1,96 +1,155 @@
-<h1 align="center">Hi 👋, I'm Kinza Khan</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS</h3>
+<h1 align="center">
+  Hi 👋, I'm Kinza Khan
+</h1>
+
+<h3 align="center">
+Frontend Developer • React • Next.js • TypeScript • Tailwind CSS
+</h3>
 
 <p align="center">
-  <a href="https://kinza-khan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/kinza-khan-8b64462b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kinzasardar545@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+Passionate about building fast, responsive, and user-friendly web applications.
+</p>
+
+<p align="center">
+
+<a href="https://kinza-khan.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kinza-khan-8b64462b7">
+<img src="https://img.shields.io/badge/LinkedIn-Kinza_Khan-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kinzasardar545@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-💻 Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
-
-🚀 Skilled in React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML, and CSS.
-
-🌱 Currently learning AI-powered web applications and improving full-stack development skills.
-
-🎯 Looking for Frontend Developer Internship & Remote Opportunities.
+- 💻 Frontend Developer passionate about modern web development.
+- 🚀 Building applications with **React.js, Next.js, TypeScript & Tailwind CSS**.
+- 🌱 Currently learning **AI-powered applications** and advanced web technologies.
+- 🎯 Looking for **Frontend Developer Internship** and **Remote Opportunities**.
+- ⚡ I enjoy turning ideas into beautiful and responsive websites.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind"/>
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Website
-Responsive shopping website built using Next.js, TypeScript and Tailwind CSS.
-
-### 🚗 Car Rental Website
-Modern responsive car rental platform with clean UI.
+# 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+
+Personal portfolio showcasing my projects, skills and experience.
 
 🔗 https://kinza-khan.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+### 🛒 E-Commerce Website
+
+Responsive shopping website built using Next.js, TypeScript and Tailwind CSS.
+
+---
+
+### 🚗 Car Rental Website
+
+Modern responsive car rental platform with clean UI.
+
+---
+
+### 🖨 Muavia Print
+
+Business website developed with Next.js and Tailwind CSS.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinza565&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinza565&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Kinza565&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Kinza565&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-📧 Email: **kinzasardar545@gmail.com**
+<p align="center">
 
-💼 LinkedIn:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinza565&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kinza565&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**kinzasardar545@gmail.com**
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/kinza-khan-8b64462b7
 
-🌐 Portfolio:
+🌍 **Portfolio**
+
 https://kinza-khan.vercel.app/
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories.
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
