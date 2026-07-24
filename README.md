@@ -64,14 +64,19 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kinza565&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Kinza565&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinza565&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -80,6 +85,11 @@ Personal portfolio showcasing projects and skills.
 </p>
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kinza565&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 📫 Connect With Me
 
