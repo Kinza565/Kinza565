@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      <<img src="./path-to-your-image.png" width="100%" />>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@
         <li>Automated fee management, attendance tracking, and performance analytics with secure REST APIs.</li>
       </ul>
       <p align="center">
-        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
+        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗https://edu-portal-school-management-system.vercel.app/</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -105,7 +105,7 @@
         <li>Clean API endpoints integration for effortless backend communications and responsive UI.</li>
       </ul>
       <p align="center">
-        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
+        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗https://hackathone-template-7keenzah.vercel.app/</b></a>
       </p>
     </td>
   </tr>
