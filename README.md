@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <<img src="./path-to-your-image.png" width="100%" />>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kinza's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -90,22 +90,22 @@
         <li>Automated fee management, attendance tracking, and performance analytics with secure REST APIs.</li>
       </ul>
       <p align="center">
-        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗https://edu-portal-school-management-system.vercel.app/</b></a>
+        <a href="https://edu-portal-school-management-system.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 Modern Car Rental Application</h3>
+      <h3 align="center">🛒 E-Commerce Web Application</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
       <ul>
-        <li>Interactive booking user interface with vehicle category filters and live availability tracking.</li>
-        <li>Clean API endpoints integration for effortless backend communications and responsive UI.</li>
+        <li>Responsive e-commerce storefront template with dynamic cart features and optimized rendering.</li>
+        <li>Clean modular component structure designed for seamless integration and scale.</li>
       </ul>
       <p align="center">
-        <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗https://hackathone-template-7keenzah.vercel.app/</b></a>
+        <a href="https://hackathone-template-7keenzah.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
       </p>
     </td>
   </tr>
