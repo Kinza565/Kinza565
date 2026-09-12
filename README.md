@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kinza Khan</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Tailwind CSS</h3>
+<h3 align="center">Full-Stack Web Developer | Next.js | React | TypeScript | FastAPI | Tailwind CSS</h3>
 
 <p align="center">
   <a href="https://kinza-khan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/kinza-khan-8b64462b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -11,96 +11,84 @@
   <a href="mailto:kinzasardar545@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-💻 Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+💻 **Full-Stack Web Developer** specializing in building fast, scalable, and responsive web applications with modern frontend and backend architectures.
 
-🚀 Skilled in React.js, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML, and CSS.
+🚀 **Core Expertise:** Next.js, React.js, TypeScript, Tailwind CSS, FastAPI, Node.js, and Database Systems.
 
-🌱 Currently learning AI-powered web applications and improving full-stack development skills.
+💼 **Status:** Open for **Remote Full-Time Roles, Contract Work, & Freelance Projects** globally (US, UK, Europe).
 
-🎯 Looking for Frontend Developer Internship & Remote Opportunities.
+🌱 Currently expanding my skills in **AI-Powered Web Applications** & advanced full-stack serverless architectures.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres,mongodb" />
 </p>
 
-### Tools
-
+### Tools & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Website
-Responsive shopping website built using Next.js, TypeScript and Tailwind CSS.
+### 🛒 E-Commerce Platform (`Food-Y`)
+Responsive and scalable web application built with Next.js, TypeScript, and Tailwind CSS. Modern UI with optimized performance and seamless user experience.
 
-### 🚗 Car Rental Website
-Modern responsive car rental platform with clean UI.
+### 🚗 Car Rental Platform
+Modern, responsive car rental web application with interactive UI/UX and dynamic client interaction features.
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
-
-🔗 https://kinza-khan.vercel.app/
+### 🌐 Personal Portfolio Website
+Interactive showcase of skills, projects, and contact avenues for client collaborations.
+🔗 **Live Demo:** [kinza-khan.vercel.app](https://kinza-khan.vercel.app/)
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kinza565&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kinza565&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Kinza565&theme=tokyonight"/>
-</p>
-
 ---
+
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kinza565&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+---
+
 ## 📫 Connect With Me
 
-📧 Email: **kinzasardar545@gmail.com**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/kinza-khan-8b64462b7
-
-🌐 Portfolio:
-https://kinza-khan.vercel.app/
+📧 **Email:** [kinzasardar545@gmail.com](mailto:kinzasardar545@gmail.com)  
+💼 **LinkedIn:** [Kinza Khan](https://www.linkedin.com/in/kinza-khan-8b64462b7)  
+🌐 **Portfolio:** [kinza-khan.vercel.app](https://kinza-khan.vercel.app/)  
 
 ---
 
-⭐ If you like my work, don't forget to star my repositories.
+⭐ *If you like my repositories, feel free to give them a star!*
