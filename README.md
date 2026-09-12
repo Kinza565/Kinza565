@@ -31,21 +31,9 @@
 
 ## 🚀 Executive Summary
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>I am a <b>Full-Stack Web Developer</b> specializing in architecting end-to-end web applications and SaaS platforms. My expertise spans building sleek, performant user interfaces with <b>Next.js & React</b> and engineering robust backend microservices using <b>FastAPI & Node.js</b>.</p>
-      <ul>
-        <li><b>Front-End Expertise:</b> Server-Side Rendering (SSR), Responsive UI/UX, State Management, Tailwind CSS.</li>
-        <li><b>Back-End Expertise:</b> RESTful APIs, Database Schema Design, Authentication, Serverless Deployment.</li>
-        <li><b>Target Availability:</b> Global Remote Contracts, US/UK/EU Startup Hiring, Freelance Products.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kinza's GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+| Executive Details | GitHub Stats |
+| :--- | :---: |
+| I am a **Full-Stack Web Developer** specializing in architecting end-to-end web applications and SaaS platforms. My expertise spans building sleek, performant user interfaces with **Next.js & React** and engineering robust backend microservices using **FastAPI & Node.js**.<br/><br/>• **Front-End Expertise:** Server-Side Rendering (SSR), Responsive UI/UX, State Management, Tailwind CSS.<br/>• **Back-End Expertise:** RESTful APIs, Database Schema Design, Authentication, Serverless Deployment.<br/>• **Target Availability:** Global Remote Contracts, US/UK/EU Startup Hiring, Freelance Products. | ![Kinza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true) |
 
 ---
 
