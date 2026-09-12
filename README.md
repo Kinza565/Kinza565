@@ -3,7 +3,7 @@
   <!-- Header Banner / Title -->
   <h1>⚡ KINZA KHAN ⚡</h1>
   <h3><b>Full-Stack Web Developer & Scalable Systems Engineer</b></h3>
-  <p><i>Building high-performance, responsive web applications & backend architectures</i></p>
+  <p><i>Building high-performance, responsive web applications & robust backend architectures</i></p>
 
   <!-- Quick Action Badges -->
   <p>
@@ -34,7 +34,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>I am a <b>Full-Stack Web Developer</b> specializing in architecting end-to-end web platforms. My expertise spans building sleek, performant user interfaces with <b>Next.js & React</b> and engineering robust backend microservices using <b>FastAPI & Node.js</b>.</p>
+      <p>I am a <b>Full-Stack Web Developer</b> specializing in architecting end-to-end web applications and SaaS platforms. My expertise spans building sleek, performant user interfaces with <b>Next.js & React</b> and engineering robust backend microservices using <b>FastAPI & Node.js</b>.</p>
       <ul>
         <li><b>Front-End Expertise:</b> Server-Side Rendering (SSR), Responsive UI/UX, State Management, Tailwind CSS.</li>
         <li><b>Back-End Expertise:</b> RESTful APIs, Database Schema Design, Authentication, Serverless Deployment.</li>
@@ -79,15 +79,15 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Food-Y | E-Commerce Platform</h3>
+      <h3 align="center">🏫 School Management SaaS Platform</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
       <ul>
-        <li>Full-featured modern e-commerce storefront with dynamic cart and state handling.</li>
-        <li>Optimized for speed, SEO, and ultra-responsive layout across all device screens.</li>
+        <li>Role-based access control (Admin, Teacher, Student, Parent) for institutional workflows.</li>
+        <li>Automated fee management, attendance tracking, and performance analytics with secure REST APIs.</li>
       </ul>
       <p align="center">
         <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
@@ -98,11 +98,11 @@
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
       <ul>
-        <li>Interactive booking user interface with vehicle category filters and live availability.</li>
-        <li>Clean API endpoints integration for effortless backend communications.</li>
+        <li>Interactive booking user interface with vehicle category filters and live availability tracking.</li>
+        <li>Clean API endpoints integration for effortless backend communications and responsive UI.</li>
       </ul>
       <p align="center">
         <a href="https://kinza-khan.vercel.app/" target="_blank"><b>Live Demo 🔗</b></a>
@@ -134,7 +134,7 @@
 
   ## 🌐 Let's Build Something Great Together!
 
-  <p>I am actively seeking remote opportunities with startups, tech companies, and agencies.</p>
+  <p>I am actively seeking remote opportunities with startups, tech companies, and agencies worldwide.</p>
 
   <p>
     <b>Email:</b> <a href="mailto:kinzasardar545@gmail.com">kinzasardar545@gmail.com</a> | 
