@@ -29,12 +29,17 @@
 
 ---
 
-## 🚀 Executive Summary
+#### 🚀 Executive Summary
 
-| Executive Details | GitHub Stats |
-| :--- | :---: |
-| I am a **Full-Stack Web Developer** specializing in architecting end-to-end web applications and SaaS platforms. My expertise spans building sleek, performant user interfaces with **Next.js & React** and engineering robust backend microservices using **FastAPI & Node.js**.<br/><br/>• **Front-End Expertise:** Server-Side Rendering (SSR), Responsive UI/UX, State Management, Tailwind CSS.<br/>• **Back-End Expertise:** RESTful APIs, Database Schema Design, Authentication, Serverless Deployment.<br/>• **Target Availability:** Global Remote Contracts, US/UK/EU Startup Hiring, Freelance Products. | ![Kinza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kinza565&show_icons=true&theme=tokyonight&hide_border=true" alt="Kinza's GitHub Stats" />
+</p>
 
+I am a **Full-Stack Web Developer** specializing in architecting end-to-end web applications and SaaS platforms. My expertise spans building sleek, performant user interfaces with **Next.js & React** and engineering robust backend microservices using **FastAPI & Node.js**.
+
+- **Front-End Expertise:** Server-Side Rendering (SSR), Responsive UI/UX, State Management, Tailwind CSS.
+- **Back-End Expertise:** RESTful APIs, Database Schema Design, Authentication, Serverless Deployment.
+- **Target Availability:** Global Remote Contracts, US/UK/EU Startup Hiring, Freelance Products.
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
